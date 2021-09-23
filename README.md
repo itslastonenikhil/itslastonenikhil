@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **itslastonenikhil/itslastonenikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi, My name is Nikhil</h1>
+<h3 align="center">I enjoy developing solutions to real-world problems</h3>
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itslastonenikhil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhilmaurya/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itslastonenikhil)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itslastonenikhil&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itslastonenikhil)  
+
+
