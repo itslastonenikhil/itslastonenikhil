@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, My name is Nikhil</h1>
-<h3 align="center">I enjoy developing solutions to real-world problems</h3>
+<h3 align="center"></h3>
 
 
 
